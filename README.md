@@ -1,0 +1,2 @@
+# sto
+Stock Taking aps
